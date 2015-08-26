@@ -1,0 +1,1272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:6:5
+	xmlns:tools
+		ADDED from AndroidManifest.xml:3:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:8:5
+MERGED from com.android.support:appcompat-v7:22.2.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.awareframework:aware-core:3.5.5:7:5
+MERGED from com.google.android.gms:play-services:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-ads:7.5.0:23:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-appindexing:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-appinvite:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-appstate:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-cast:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:mediarouter-v7:22.0.0:20:5
+MERGED from com.android.support:appcompat-v7:22.2.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-drive:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-fitness:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-location:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-games:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-drive:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-gcm:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-identity:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-location:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-nearby:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-panorama:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-plus:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-safetynet:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-wallet:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-identity:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:28:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.google.android.gms:play-services-wearable:7.5.0:18:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:cardview-v7:22.2.0:20:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:10:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.BLUETOOTH
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#com.microsoft.band.service.access.BIND_BAND_SERVICE
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:14:5
+MERGED from com.awareframework:aware-core:3.5.5:48:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:22:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-permission#android.permission.READ_CALENDAR
+ADDED from AndroidManifest.xml:17:5
+	android:name
+		ADDED from AndroidManifest.xml:17:22
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+application
+ADDED from AndroidManifest.xml:21:5
+MERGED from com.android.support:appcompat-v7:22.2.0:22:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.awareframework:aware-core:3.5.5:53:5
+MERGED from com.google.android.gms:play-services:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-ads:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-appindexing:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-appinvite:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-appstate:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-cast:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:mediarouter-v7:22.0.0:22:5
+MERGED from com.android.support:appcompat-v7:22.2.0:22:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-drive:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-fitness:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-location:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-games:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-drive:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-gcm:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-identity:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-location:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-nearby:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-panorama:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-plus:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-safetynet:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-wallet:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-identity:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:29:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.google.android.gms:play-services-wearable:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:cardview-v7:22.2.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:24:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:22:9
+	android:icon
+		ADDED from AndroidManifest.xml:23:9
+		REJECTED from com.awareframework:aware-core:3.5.5:54:9
+	android:theme
+		ADDED from AndroidManifest.xml:25:9
+		REJECTED from com.awareframework:aware-core:3.5.5:56:9
+	tools:replace
+		ADDED from AndroidManifest.xml:26:9
+activity#com.microsoft.band.sdk.sampleapp.MainActivity
+ADDED from AndroidManifest.xml:27:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:29:13
+	android:label
+		ADDED from AndroidManifest.xml:30:13
+	android:name
+		ADDED from AndroidManifest.xml:28:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:31:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:32:17
+	android:name
+		ADDED from AndroidManifest.xml:32:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:34:17
+	android:name
+		ADDED from AndroidManifest.xml:34:27
+service#com.microsoft.band.sdk.sampleapp.BandStreamingAppActivity
+ADDED from AndroidManifest.xml:37:9
+	android:exported
+		ADDED from AndroidManifest.xml:37:91
+	android:name
+		ADDED from AndroidManifest.xml:37:18
+provider#com.microsoft.band.sdk.sampleapp.bandProvider
+ADDED from AndroidManifest.xml:39:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:43:13
+	android:authorities
+		ADDED from AndroidManifest.xml:41:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:42:13
+	android:name
+		ADDED from AndroidManifest.xml:40:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:44:13
+provider#com.aware.providers.Bluetooth_Provider
+ADDED from AndroidManifest.xml:48:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:52:13
+	android:authorities
+		ADDED from AndroidManifest.xml:50:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:51:13
+	android:name
+		ADDED from AndroidManifest.xml:49:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:53:13
+provider#com.aware.providers.Applications_Provider
+ADDED from AndroidManifest.xml:56:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:60:13
+	android:authorities
+		ADDED from AndroidManifest.xml:58:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:59:13
+	android:name
+		ADDED from AndroidManifest.xml:57:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:61:13
+provider#com.aware.providers.Locations_Provider
+ADDED from AndroidManifest.xml:64:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:68:13
+	android:authorities
+		ADDED from AndroidManifest.xml:66:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:67:13
+	android:name
+		ADDED from AndroidManifest.xml:65:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:69:13
+provider#com.aware.providers.Installations_Provider
+ADDED from AndroidManifest.xml:72:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:76:13
+	android:authorities
+		ADDED from AndroidManifest.xml:74:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:75:13
+	android:name
+		ADDED from AndroidManifest.xml:73:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:77:13
+provider#com.aware.providers.ESM_Provider
+ADDED from AndroidManifest.xml:80:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:84:13
+	android:authorities
+		ADDED from AndroidManifest.xml:82:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:83:13
+	android:name
+		ADDED from AndroidManifest.xml:81:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:85:13
+provider#com.aware.providers.Temperature_Provider
+ADDED from AndroidManifest.xml:88:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:92:13
+	android:authorities
+		ADDED from AndroidManifest.xml:90:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:91:13
+	android:name
+		ADDED from AndroidManifest.xml:89:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:93:13
+provider#com.aware.providers.Linear_Accelerometer_Provider
+ADDED from AndroidManifest.xml:96:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:100:13
+	android:authorities
+		ADDED from AndroidManifest.xml:98:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:99:13
+	android:name
+		ADDED from AndroidManifest.xml:97:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:101:13
+provider#com.aware.providers.Gravity_Provider
+ADDED from AndroidManifest.xml:104:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:108:13
+	android:authorities
+		ADDED from AndroidManifest.xml:106:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:107:13
+	android:name
+		ADDED from AndroidManifest.xml:105:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:109:13
+provider#com.aware.providers.Barometer_Provider
+ADDED from AndroidManifest.xml:112:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:116:13
+	android:authorities
+		ADDED from AndroidManifest.xml:114:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:115:13
+	android:name
+		ADDED from AndroidManifest.xml:113:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:117:13
+provider#com.aware.providers.Magnetometer_Provider
+ADDED from AndroidManifest.xml:120:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:124:13
+	android:authorities
+		ADDED from AndroidManifest.xml:122:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:123:13
+	android:name
+		ADDED from AndroidManifest.xml:121:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:125:13
+provider#com.aware.providers.Proximity_Provider
+ADDED from AndroidManifest.xml:128:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:132:13
+	android:authorities
+		ADDED from AndroidManifest.xml:130:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:131:13
+	android:name
+		ADDED from AndroidManifest.xml:129:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:133:13
+provider#com.aware.providers.Light_Provider
+ADDED from AndroidManifest.xml:136:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:140:13
+	android:authorities
+		ADDED from AndroidManifest.xml:138:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:139:13
+	android:name
+		ADDED from AndroidManifest.xml:137:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:141:13
+provider#com.aware.providers.Telephony_Provider
+ADDED from AndroidManifest.xml:144:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:148:13
+	android:authorities
+		ADDED from AndroidManifest.xml:146:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:147:13
+	android:name
+		ADDED from AndroidManifest.xml:145:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:149:13
+provider#com.aware.providers.Aware_Provider
+ADDED from AndroidManifest.xml:152:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:156:13
+	android:authorities
+		ADDED from AndroidManifest.xml:154:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:155:13
+	android:name
+		ADDED from AndroidManifest.xml:153:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:157:13
+provider#com.aware.providers.Rotation_Provider
+ADDED from AndroidManifest.xml:160:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:164:13
+	android:authorities
+		ADDED from AndroidManifest.xml:162:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:163:13
+	android:name
+		ADDED from AndroidManifest.xml:161:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:165:13
+provider#com.aware.providers.WiFi_Provider
+ADDED from AndroidManifest.xml:168:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:172:13
+	android:authorities
+		ADDED from AndroidManifest.xml:170:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:171:13
+	android:name
+		ADDED from AndroidManifest.xml:169:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:173:13
+provider#com.aware.providers.Accelerometer_Provider
+ADDED from AndroidManifest.xml:176:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:180:13
+	android:authorities
+		ADDED from AndroidManifest.xml:178:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:179:13
+	android:name
+		ADDED from AndroidManifest.xml:177:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:181:13
+provider#com.aware.providers.Gyroscope_Provider
+ADDED from AndroidManifest.xml:184:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:188:13
+	android:authorities
+		ADDED from AndroidManifest.xml:186:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:187:13
+	android:name
+		ADDED from AndroidManifest.xml:185:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:189:13
+provider#com.aware.providers.Traffic_Provider
+ADDED from AndroidManifest.xml:192:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:196:13
+	android:authorities
+		ADDED from AndroidManifest.xml:194:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:195:13
+	android:name
+		ADDED from AndroidManifest.xml:193:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:197:13
+provider#com.aware.providers.Mqtt_Provider
+ADDED from AndroidManifest.xml:200:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:204:13
+	android:authorities
+		ADDED from AndroidManifest.xml:202:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:203:13
+	android:name
+		ADDED from AndroidManifest.xml:201:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:205:13
+provider#com.aware.providers.Processor_Provider
+ADDED from AndroidManifest.xml:208:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:212:13
+	android:authorities
+		ADDED from AndroidManifest.xml:210:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:211:13
+	android:name
+		ADDED from AndroidManifest.xml:209:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:213:13
+provider#com.aware.providers.TimeZone_Provider
+ADDED from AndroidManifest.xml:216:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:220:13
+	android:authorities
+		ADDED from AndroidManifest.xml:218:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:219:13
+	android:name
+		ADDED from AndroidManifest.xml:217:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:221:13
+provider#com.aware.providers.Battery_Provider
+ADDED from AndroidManifest.xml:224:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:228:13
+	android:authorities
+		ADDED from AndroidManifest.xml:226:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:227:13
+	android:name
+		ADDED from AndroidManifest.xml:225:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:229:13
+provider#com.aware.providers.Screen_Provider
+ADDED from AndroidManifest.xml:232:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:236:13
+	android:authorities
+		ADDED from AndroidManifest.xml:234:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:235:13
+	android:name
+		ADDED from AndroidManifest.xml:233:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:237:13
+provider#com.aware.providers.Network_Provider
+ADDED from AndroidManifest.xml:240:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:244:13
+	android:authorities
+		ADDED from AndroidManifest.xml:242:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:243:13
+	android:name
+		ADDED from AndroidManifest.xml:241:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:245:13
+provider#com.aware.providers.Communication_Provider
+ADDED from AndroidManifest.xml:248:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:252:13
+	android:authorities
+		ADDED from AndroidManifest.xml:250:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:251:13
+	android:name
+		ADDED from AndroidManifest.xml:249:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:253:13
+provider#com.aware.providers.Keyboard_Provider
+ADDED from AndroidManifest.xml:256:9
+	android:readPermission
+		ADDED from AndroidManifest.xml:260:13
+	android:authorities
+		ADDED from AndroidManifest.xml:258:13
+		INJECTED from AndroidManifest.xml:0:0
+	android:exported
+		ADDED from AndroidManifest.xml:259:13
+	android:name
+		ADDED from AndroidManifest.xml:257:13
+	android:writePermission
+		ADDED from AndroidManifest.xml:261:13
+uses-feature#android.hardware.camera
+ADDED from com.awareframework:aware-core:3.5.5:11:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:11:19
+uses-feature#android.hardware.camera.autofocus
+ADDED from com.awareframework:aware-core:3.5.5:12:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:12:19
+uses-permission#com.aware.READ_CONTEXT_DATA
+ADDED from com.awareframework:aware-core:3.5.5:46:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:46:22
+uses-permission#com.aware.WRITE_CONTEXT_DATA
+ADDED from com.awareframework:aware-core:3.5.5:47:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:47:22
+uses-permission#android.permission.INTERNET
+ADDED from com.awareframework:aware-core:3.5.5:49:5
+MERGED from com.google.android.gms:play-services-ads:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:21:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:21:5
+MERGED from com.google.android.gms:play-services-appinvite:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
+MERGED from com.google.android.gms:play-services-wallet:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:21:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:49:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from com.awareframework:aware-core:3.5.5:50:5
+MERGED from com.google.android.gms:play-services-ads:7.5.0:21:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:22:5
+MERGED from com.google.android.gms:play-services-analytics:7.5.0:22:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
+MERGED from com.google.android.gms:play-services-nearby:7.5.0:19:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:20:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:50:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from com.awareframework:aware-core:3.5.5:51:5
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:51:22
+meta-data#com.google.android.gms.version
+ADDED from com.awareframework:aware-core:3.5.5:57:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+	android:value
+		ADDED from com.awareframework:aware-core:3.5.5:59:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:58:13
+activity#com.aware.Aware_Preferences
+ADDED from com.awareframework:aware-core:3.5.5:60:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:63:13
+	android:label
+		ADDED from com.awareframework:aware-core:3.5.5:66:13
+	android:launchMode
+		ADDED from com.awareframework:aware-core:3.5.5:67:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:64:13
+	android:configChanges
+		ADDED from com.awareframework:aware-core:3.5.5:62:13
+	android:icon
+		ADDED from com.awareframework:aware-core:3.5.5:65:13
+	android:theme
+		ADDED from com.awareframework:aware-core:3.5.5:68:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:61:13
+activity#com.aware.ui.Stream_UI
+ADDED from com.awareframework:aware-core:3.5.5:75:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:78:13
+	android:label
+		ADDED from com.awareframework:aware-core:3.5.5:81:13
+	android:parentActivityName
+		ADDED from com.awareframework:aware-core:3.5.5:84:13
+	android:launchMode
+		ADDED from com.awareframework:aware-core:3.5.5:82:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:79:13
+	android:noHistory
+		ADDED from com.awareframework:aware-core:3.5.5:83:13
+	android:configChanges
+		ADDED from com.awareframework:aware-core:3.5.5:77:13
+	android:icon
+		ADDED from com.awareframework:aware-core:3.5.5:80:13
+	android:theme
+		ADDED from com.awareframework:aware-core:3.5.5:85:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:76:13
+intent-filter#android.intent.action.ASSIST+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from com.awareframework:aware-core:3.5.5:86:13
+action#android.intent.action.ASSIST
+ADDED from com.awareframework:aware-core:3.5.5:87:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:87:25
+category#android.intent.category.DEFAULT
+ADDED from com.awareframework:aware-core:3.5.5:89:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:89:27
+meta-data#com.android.systemui.action_assist_icon
+ADDED from com.awareframework:aware-core:3.5.5:93:13
+	android:resource
+		ADDED from com.awareframework:aware-core:3.5.5:95:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:94:17
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from com.awareframework:aware-core:3.5.5:96:13
+	android:value
+		ADDED from com.awareframework:aware-core:3.5.5:98:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:97:17
+activity#com.aware.ui.CameraStudy
+ADDED from com.awareframework:aware-core:3.5.5:100:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:103:13
+	android:label
+		ADDED from com.awareframework:aware-core:3.5.5:104:13
+	android:parentActivityName
+		ADDED from com.awareframework:aware-core:3.5.5:106:13
+	android:launchMode
+		ADDED from com.awareframework:aware-core:3.5.5:105:13
+	android:configChanges
+		ADDED from com.awareframework:aware-core:3.5.5:102:13
+	android:theme
+		ADDED from com.awareframework:aware-core:3.5.5:107:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:101:13
+activity#com.aware.ui.Plugins_Manager
+ADDED from com.awareframework:aware-core:3.5.5:112:9
+	android:label
+		ADDED from com.awareframework:aware-core:3.5.5:117:13
+	android:parentActivityName
+		ADDED from com.awareframework:aware-core:3.5.5:119:13
+	android:launchMode
+		ADDED from com.awareframework:aware-core:3.5.5:118:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:115:13
+	android:configChanges
+		ADDED from com.awareframework:aware-core:3.5.5:114:13
+	android:icon
+		ADDED from com.awareframework:aware-core:3.5.5:116:13
+	android:theme
+		ADDED from com.awareframework:aware-core:3.5.5:120:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:113:13
+activity#com.aware.ui.About
+ADDED from com.awareframework:aware-core:3.5.5:125:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:128:13
+	android:label
+		ADDED from com.awareframework:aware-core:3.5.5:130:13
+	android:parentActivityName
+		ADDED from com.awareframework:aware-core:3.5.5:132:13
+	android:launchMode
+		ADDED from com.awareframework:aware-core:3.5.5:131:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:129:13
+	android:configChanges
+		ADDED from com.awareframework:aware-core:3.5.5:127:13
+	android:theme
+		ADDED from com.awareframework:aware-core:3.5.5:133:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:126:13
+activity#com.aware.ui.ESM_Queue
+ADDED from com.awareframework:aware-core:3.5.5:138:9
+	android:clearTaskOnLaunch
+		ADDED from com.awareframework:aware-core:3.5.5:140:13
+	android:excludeFromRecents
+		ADDED from com.awareframework:aware-core:3.5.5:142:13
+	android:launchMode
+		ADDED from com.awareframework:aware-core:3.5.5:144:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:143:13
+	android:noHistory
+		ADDED from com.awareframework:aware-core:3.5.5:145:13
+	android:configChanges
+		ADDED from com.awareframework:aware-core:3.5.5:141:13
+	android:showOnLockScreen
+		ADDED from com.awareframework:aware-core:3.5.5:146:13
+	android:theme
+		ADDED from com.awareframework:aware-core:3.5.5:147:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:139:13
+service#com.aware.utils.WearClient
+ADDED from com.awareframework:aware-core:3.5.5:149:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:151:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:152:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:150:13
+service#com.aware.utils.WearProxy
+ADDED from com.awareframework:aware-core:3.5.5:153:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:155:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:156:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:154:13
+intent-filter#com.google.android.gms.wearable.BIND_LISTENER
+ADDED from com.awareframework:aware-core:3.5.5:157:13
+action#com.google.android.gms.wearable.BIND_LISTENER
+ADDED from com.awareframework:aware-core:3.5.5:158:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:158:25
+service#com.aware.Keyboard
+ADDED from com.awareframework:aware-core:3.5.5:161:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:163:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:162:13
+service#com.aware.utils.Scheduler
+ADDED from com.awareframework:aware-core:3.5.5:164:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:166:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:165:13
+service#com.aware.Aware
+ADDED from com.awareframework:aware-core:3.5.5:167:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:169:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:168:13
+service#com.aware.Applications
+ADDED from com.awareframework:aware-core:3.5.5:171:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:173:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:174:13
+	android:permission
+		ADDED from com.awareframework:aware-core:3.5.5:175:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:172:13
+intent-filter#android.accessibilityservice.AccessibilityService
+ADDED from com.awareframework:aware-core:3.5.5:176:13
+action#android.accessibilityservice.AccessibilityService
+ADDED from com.awareframework:aware-core:3.5.5:177:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:177:25
+meta-data#android.accessibilityservice
+ADDED from com.awareframework:aware-core:3.5.5:180:13
+	android:resource
+		ADDED from com.awareframework:aware-core:3.5.5:182:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:181:17
+service#com.aware.Applications$BackgroundService
+ADDED from com.awareframework:aware-core:3.5.5:184:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:186:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:185:13
+service#com.aware.Locations
+ADDED from com.awareframework:aware-core:3.5.5:188:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:190:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:189:13
+service#com.aware.Bluetooth
+ADDED from com.awareframework:aware-core:3.5.5:192:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:194:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:193:13
+service#com.aware.Screen
+ADDED from com.awareframework:aware-core:3.5.5:196:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:198:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:197:13
+service#com.aware.Battery
+ADDED from com.awareframework:aware-core:3.5.5:200:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:202:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:201:13
+service#com.aware.Network
+ADDED from com.awareframework:aware-core:3.5.5:204:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:206:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:205:13
+service#com.aware.Communication
+ADDED from com.awareframework:aware-core:3.5.5:208:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:210:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:209:13
+service#com.aware.Processor
+ADDED from com.awareframework:aware-core:3.5.5:212:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:214:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:213:13
+service#com.aware.TimeZone
+ADDED from com.awareframework:aware-core:3.5.5:216:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:218:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:217:13
+service#com.aware.Mqtt
+ADDED from com.awareframework:aware-core:3.5.5:220:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:222:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:221:13
+service#com.aware.Traffic
+ADDED from com.awareframework:aware-core:3.5.5:224:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:226:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:225:13
+service#com.aware.Accelerometer
+ADDED from com.awareframework:aware-core:3.5.5:228:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:230:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:229:13
+service#com.aware.Gyroscope
+ADDED from com.awareframework:aware-core:3.5.5:232:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:234:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:233:13
+service#com.aware.Bluetooth$BackgroundService
+ADDED from com.awareframework:aware-core:3.5.5:236:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:238:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:237:13
+service#com.aware.WiFi
+ADDED from com.awareframework:aware-core:3.5.5:240:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:242:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:241:13
+service#com.aware.WiFi$BackgroundService
+ADDED from com.awareframework:aware-core:3.5.5:244:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:246:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:245:13
+service#com.aware.Telephony
+ADDED from com.awareframework:aware-core:3.5.5:248:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:250:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:249:13
+service#com.aware.Rotation
+ADDED from com.awareframework:aware-core:3.5.5:252:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:254:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:253:13
+service#com.aware.Light
+ADDED from com.awareframework:aware-core:3.5.5:256:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:258:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:257:13
+service#com.aware.Proximity
+ADDED from com.awareframework:aware-core:3.5.5:260:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:262:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:261:13
+service#com.aware.Magnetometer
+ADDED from com.awareframework:aware-core:3.5.5:264:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:266:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:265:13
+service#com.aware.Barometer
+ADDED from com.awareframework:aware-core:3.5.5:268:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:270:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:269:13
+service#com.aware.Gravity
+ADDED from com.awareframework:aware-core:3.5.5:272:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:274:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:273:13
+service#com.aware.LinearAccelerometer
+ADDED from com.awareframework:aware-core:3.5.5:276:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:278:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:277:13
+service#com.aware.Temperature
+ADDED from com.awareframework:aware-core:3.5.5:280:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:282:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:281:13
+service#com.aware.ESM
+ADDED from com.awareframework:aware-core:3.5.5:284:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:286:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:285:13
+service#com.aware.ESM$BackgroundService
+ADDED from com.awareframework:aware-core:3.5.5:288:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:290:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:289:13
+service#com.aware.Installations
+ADDED from com.awareframework:aware-core:3.5.5:292:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:294:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:293:13
+service#com.aware.utils.WebserviceHelper
+ADDED from com.awareframework:aware-core:3.5.5:296:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:298:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:297:13
+intent-filter#ACTION_AWARE_WEBSERVICE_CLEAR_TABLE+ACTION_AWARE_WEBSERVICE_SYNC_TABLE
+ADDED from com.awareframework:aware-core:3.5.5:299:13
+action#ACTION_AWARE_WEBSERVICE_SYNC_TABLE
+ADDED from com.awareframework:aware-core:3.5.5:300:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:300:25
+action#ACTION_AWARE_WEBSERVICE_CLEAR_TABLE
+ADDED from com.awareframework:aware-core:3.5.5:301:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:301:25
+service#com.aware.Aware_Preferences$StudyConfig
+ADDED from com.awareframework:aware-core:3.5.5:304:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:306:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:305:13
+service#com.aware.Aware$UpdateFrameworkService
+ADDED from com.awareframework:aware-core:3.5.5:307:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:309:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:310:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:308:13
+service#com.aware.utils.DownloadPluginService
+ADDED from com.awareframework:aware-core:3.5.5:311:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:313:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:312:13
+service#com.aware.Aware$UpdatePlugins
+ADDED from com.awareframework:aware-core:3.5.5:314:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:316:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:317:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:315:13
+receiver#com.aware.utils.WearClient$AndroidWearHTTPClient
+ADDED from com.awareframework:aware-core:3.5.5:318:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:320:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:321:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:319:13
+intent-filter#ACTION_AWARE_ANDROID_WEAR_HTTP_GET+ACTION_AWARE_ANDROID_WEAR_HTTP_POST+ACTION_AWARE_ANDROID_WEAR_INSTALL_PLUGIN+ACTION_AWARE_ANDROID_WEAR_JOIN_STUDY+ACTION_AWARE_ANDROID_WEAR_QUIT_STUDY
+ADDED from com.awareframework:aware-core:3.5.5:322:13
+action#ACTION_AWARE_ANDROID_WEAR_HTTP_GET
+ADDED from com.awareframework:aware-core:3.5.5:323:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:323:25
+action#ACTION_AWARE_ANDROID_WEAR_HTTP_POST
+ADDED from com.awareframework:aware-core:3.5.5:324:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:324:25
+action#ACTION_AWARE_ANDROID_WEAR_INSTALL_PLUGIN
+ADDED from com.awareframework:aware-core:3.5.5:325:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:325:25
+action#ACTION_AWARE_ANDROID_WEAR_JOIN_STUDY
+ADDED from com.awareframework:aware-core:3.5.5:326:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:326:25
+action#ACTION_AWARE_ANDROID_WEAR_QUIT_STUDY
+ADDED from com.awareframework:aware-core:3.5.5:327:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:327:25
+receiver#com.aware.Aware$Aware_Broadcaster
+ADDED from com.awareframework:aware-core:3.5.5:330:9
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:332:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:331:13
+intent-filter#ACTION_AWARE_CLEAR_DATA+ACTION_AWARE_CONFIGURATION+ACTION_AWARE_REFRESH+ACTION_AWARE_SYNC_DATA
+ADDED from com.awareframework:aware-core:3.5.5:333:13
+action#ACTION_AWARE_SYNC_DATA
+ADDED from com.awareframework:aware-core:3.5.5:334:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:334:25
+action#ACTION_AWARE_CLEAR_DATA
+ADDED from com.awareframework:aware-core:3.5.5:335:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:335:25
+action#ACTION_AWARE_CONFIGURATION
+ADDED from com.awareframework:aware-core:3.5.5:336:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:336:25
+action#ACTION_AWARE_REFRESH
+ADDED from com.awareframework:aware-core:3.5.5:337:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:337:25
+receiver#com.aware.Aware$PluginMonitor
+ADDED from com.awareframework:aware-core:3.5.5:340:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:342:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:343:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:341:13
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from com.awareframework:aware-core:3.5.5:344:13
+action#android.intent.action.PACKAGE_ADDED
+ADDED from com.awareframework:aware-core:3.5.5:345:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:345:25
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from com.awareframework:aware-core:3.5.5:346:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:346:25
+data
+ADDED from com.awareframework:aware-core:3.5.5:348:17
+	android:scheme
+		ADDED from com.awareframework:aware-core:3.5.5:348:23
+receiver#com.aware.Aware$Storage_Broadcaster
+ADDED from com.awareframework:aware-core:3.5.5:351:9
+	android:enabled
+		ADDED from com.awareframework:aware-core:3.5.5:353:13
+	android:exported
+		ADDED from com.awareframework:aware-core:3.5.5:354:13
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:352:13
+intent-filter#android.intent.action.MEDIA_MOUNTED+android.intent.action.MEDIA_UNMOUNTED
+ADDED from com.awareframework:aware-core:3.5.5:355:13
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from com.awareframework:aware-core:3.5.5:356:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:356:25
+action#android.intent.action.MEDIA_UNMOUNTED
+ADDED from com.awareframework:aware-core:3.5.5:357:17
+	android:name
+		ADDED from com.awareframework:aware-core:3.5.5:357:25
+activity#com.google.android.gms.ads.AdActivity
+ADDED from com.google.android.gms:play-services-ads:7.5.0:26:9
+	android:configChanges
+		ADDED from com.google.android.gms:play-services-ads:7.5.0:28:13
+	android:theme
+		ADDED from com.google.android.gms:play-services-ads:7.5.0:29:13
+	android:name
+		ADDED from com.google.android.gms:play-services-ads:7.5.0:27:13
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from com.google.android.gms:play-services-ads:7.5.0:30:9
+	android:theme
+		ADDED from com.google.android.gms:play-services-ads:7.5.0:31:13
+	android:name
+		ADDED from com.google.android.gms:play-services-ads:7.5.0:30:19
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from com.google.android.gms:play-services-maps:7.5.0:23:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:23:5
+	android:name
+		ADDED from com.google.android.gms:play-services-maps:7.5.0:23:22
+uses-feature#0x00020000
+ADDED from com.google.android.gms:play-services-maps:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
+MERGED from com.google.android.gms:play-services-maps:7.5.0:24:5
+	android:glEsVersion
+		ADDED from com.google.android.gms:play-services-maps:7.5.0:25:8
+	android:required
+		ADDED from com.google.android.gms:play-services-maps:7.5.0:26:8
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from AndroidManifest.xml:2:1 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from com.google.android.gms:play-services-wallet:7.5.0:21:5
+	android:name
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:21:22
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from com.google.android.gms:play-services-wallet:7.5.0:22:5
+	android:name
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:22:22
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from com.google.android.gms:play-services-wallet:7.5.0:25:9
+	android:value
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:27:13
+	android:name
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:26:13
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from com.google.android.gms:play-services-wallet:7.5.0:28:9
+	android:exported
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:30:13
+	android:name
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:29:13
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from com.google.android.gms:play-services-wallet:7.5.0:31:13
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from com.google.android.gms:play-services-wallet:7.5.0:32:17
+	android:name
+		ADDED from com.google.android.gms:play-services-wallet:7.5.0:32:25

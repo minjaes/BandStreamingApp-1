@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-1077d519c0d6435d340aa6153e2cec8c86a696bb.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-c67245dad13cc657103cd48289e7094423769aa3.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/android-sdks/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-280896f7e3808f80916dc0b533c1b16407b16969.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-ca8c750414c68abdfaecc4511a76434d404b5f14.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.awareframework/aware-core/3.5.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c081ac64bbc0ea78f1acebecb02562260eec46f3">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-874f5c5a3c3700e0b7fb7f6ed332d482c788f3c9.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-f8afcb51551ecb9ad2afe198d0f1e1a1a6c64e2e.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-fe6ec09ace9b70c3e53a72872b0aa47552b0f123.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-3237d9188752be4862301896410cff24b64b2b40.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-f233877a65d96e398449cd61f69e9f99d440ae67.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/libs/microsoft-band-1.3.10428.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3da45109884b30fbfd70e3bd2835d99a730acd8">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/microsoft-band-1.3.10428.1-51a9a5ce1fe63fa5facc6b5e600b012cdcd268d3.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-f6b4dee946e4b42df415bedebf51a22c241581c9.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-4b4c5313b257af2f888bb3c5d36fb04be0057c60.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.awareframework/aware-core/3.5.5/jars/libs/mqtt-client-0.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02315d1759d01e52495e040e6e538aaa2e91c7f6">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/mqtt-client-0.4.0-a659561ab09d0c5ccefc1aeda6fe5edb3eb87dc4.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-c069c8137477d2e75245cc8eb57fcd02f825563f.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.awareframework/aware-core/3.5.5/jars/libs/zbar.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/zbar-cba3061af27e9396c437d3bfef057337d504bbae.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-b321229142c34f29f68bc76b24b0122a72237245.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-13e734a789531bdd9d6c3e04311754801c392288.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b11240a0a06fe7107943b6f6e06021594861b898.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-1abd2f7b80576c981d11e67b12914ff9763173aa.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-36cdc82accb85f1091b2248a1769df63cd26337b.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-b8b974c6d79fe4c73e1dd8be8525260828e94799.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-b728095222cb0e8c68a17996eea5b62881357728.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ac601b6d65b1dea8fb49ac2f3849158bce347002.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-5c4000346a030f872894f79256cccc4b56d38152.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-213abf7389a79c1e61792cdaad7b8a17b01e74e1.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-b8f99b2a41b2ad3d479bd7fe0fa013aafab4a767.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-62fb0548db3c3b90420965b2ec3ef014a49de99c.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-a6f257b2a9e4d6e6a2bb6e9f014dd4c1ed1c5bbe.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-bdb8c98b56be468ae70c077ec471555303d73b85.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-c67f7fb35091496fdd49ee13aea189ab31718951.jar" />
+    </item>
+    <item
+        jar="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/MJ/AndroidStudioProjects/BandStreamingApp-master/app/build/intermediates/pre-dexed/debug/classes-bdb71f40257b2c245d5ce1eb76562877dc9a49ec.jar" />
+    </item>
+
+</items>
